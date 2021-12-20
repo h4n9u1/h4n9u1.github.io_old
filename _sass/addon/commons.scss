@@ -414,6 +414,7 @@ img[data-src] {
   margin-top: 2rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
+  word-break: break-all;
 
   a {
     &:not(.img-link) {

@@ -104,6 +104,8 @@ code {
   -moz-hyphens: none;
   hyphens: none;
 
+  font-family: 'Hack', 'D2Coding';
+
   &.highlighter-rouge {
     font-size: $code-font-size;
     padding: 3px 5px;

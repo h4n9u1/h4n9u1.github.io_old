@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: h4n9u1
+  name: H4N9U1
   email: h4n9u1@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -76,8 +76,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/9483302
-
+avatar: assets/img/avatar.png
 # boolean type, the global switch for ToC in posts.
 toc: true
 

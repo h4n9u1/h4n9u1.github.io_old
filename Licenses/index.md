@@ -20,13 +20,13 @@ Copyright (C) {{ 'now' | date: "%Y" }} <a href="{{ site.social.links[0] }}">{{ s
 <https://hangeul.naver.com/font><br/>
 Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen, Naver NanumGothicEco, NanumGothicEco, Naver NanumMyeongjoEco, NanumMyeongjoEco, Naver NanumGothicLight, NanumGothicLight, NanumBarunGothic, Naver NanumBarunGothic, NanumSquareRound, NanumBarunPen, MaruBuri<br/>
 SIL OPEN FONT LICENSE<br/>
-[라이선스 전문](oss/NaverNanumFont)
+[라이선스 전문]({{ site.baseurl }}/Licenses/oss/NaverNanumFont)
 
 ## D2Coding
 <https://github.com/naver/d2codingfont><br/>
 Copyright (c) 2015, NAVER Corporation (http://www.navercorp.com), with Reserved Font Name D2Coding, D2Coding-Bold.<br/>
 SIL OPEN FONT LICENSE<br/>
-[라이선스 전문](oss/D2Coding)
+[라이선스 전문]({{ site.baseurl }}/Licenses/oss/oss/D2Coding)
 
 ## Hack
 <https://github.com/source-foundry/Hack><br/>
@@ -34,17 +34,17 @@ Copyright (C) Copyright (c) 2018 Source Foundry Authors<br/>
 Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.<br/>
 MIT License<br/>
 BITSTREAM VERA LICENSE<br/>
-[라이선스 전문](oss/Hack)
+[라이선스 전문]({{ site.baseurl }}/Licenses/oss/oss/Hack)
 
 ## Jekyll
 <https://jekyllrb.com/><br/>
 Copyright (c) 2008-present Tom Preston-Werner and Jekyll contributors<br/>
 MIT License<br/>
-[라이선스 전문](oss/Jekyll)
+[라이선스 전문]({{ site.baseurl }}/Licenses/oss/oss/Jekyll)
 
 ## Chirpy Jekyll Theme
 <https://github.com/cotes2020/jekyll-theme-chirpy><br/>
 Copyright (c) 2021 Cotes Chung<br/>
 MIT License<br/>
-[라이선스 전문](oss/Chirpy)
+[라이선스 전문]({{ site.baseurl }}/Licenses/oss/oss/Chirpy)
 

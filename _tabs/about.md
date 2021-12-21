@@ -46,8 +46,12 @@ order: 4
 * Python
 * Rust
 
-## CTFs
+## CTFs & Competition
 * 제6회 공군 사이버전사 경연대회 우수상(2020.7)
+* 2021년 제 3회 TS보안 허점을 찾아라 우수상(2021.12)
+
+## Bug Bounty
+* Unreal Engine 4 RCE (2021.11, $2,500)
 
 ## Ranks
 * -

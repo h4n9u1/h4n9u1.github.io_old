@@ -51,7 +51,7 @@ order: 4
 * 2021년 제 3회 TS보안 허점을 찾아라 우수상(2021.12)
 
 ## Bug Bounty
-* Unreal Engine 4 RCE (2021.11, $2,500)
+* Unreal Engine 4 RCE (2021.11, $2,500, CVSS 4 ~ 6.9)
 
 ## Ranks
 * -
